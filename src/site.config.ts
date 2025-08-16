@@ -2,7 +2,7 @@ import type { SiteConfig } from '~/types'
 
 const config: SiteConfig = {
   // Absolute URL to the root of your published site, used for generating links and sitemaps.
-  site: 'https://noisydata.dev',
+  site: 'https://blog.noisydata.dev/',
   // The name of your site, used in the title and for SEO.
   title: 'Noisy Data',
   // The description of your site, used for SEO and RSS feed.
@@ -99,7 +99,7 @@ const config: SiteConfig = {
   },
   // Social links to display in the footer.
   socialLinks: {
-    github: 'https://github.com/noisy-data/blog-site',
+    github: 'https://github.com/noisy-data/',
     // mastodon: '',
     //email: '',
     linkedin: 'https://www.linkedin.com/in/tim-barnes-ldn',
